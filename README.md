@@ -1,2 +1,2 @@
 # hello-world
-This is part of a tutorial.
+I am not very good at programming.
